@@ -5,7 +5,7 @@ def main(msg):
     print(msg)
 
 def secondary():
-    pring("New Function")
+    print("New Function")
 
 main("Hello People This is a test");
 
